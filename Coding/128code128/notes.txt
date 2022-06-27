@@ -1,0 +1,23 @@
+[125/128] Il paraît qu'il y a un mot de passe dans cette image... Peux-tu m'aider ? Vite vite vite !!!
+
+b'iVBORw0KGgoAAAANSUhEUgAAAG4AAABkCAIAAADoopLKAAABH0lEQVR4nO3QMQ7DIBAAwVP+/2fSIWQcKcWUO9UJY0A7MzMza6211jns9XPDuWfPj5XXxfvYe/PjovvHX5f+8/LX9fvl96d7eJyw588EKSVTSqaUTCmZUjKlZErJlJIpJVNKppRMKZlSMqVkSsmUkiklU0qmlEwpmVIypWRKyZSSKSVTSqaUTCmZUjKlZErJlJIpJVNKppRMKZlSMqVkSsmUkiklU0qmlEwpmVIypWRKyZSSKSVTSqaUTCmZUjKlZErJlJIpJVNKppRMKZlSMqVkSsmUkiklU0qmlEwpmVIypWRKyZSSKSVTSqaUTCmZUjKlZErJlJIpJVNKppRMKZlSMqVkSsmUkiklU0qmlEwpmVIypWRKyZSSKSVTSuYLQYauGbBb3YAAAAAASUVORK5CYII=\n'
+b'4IE1fl0YvL'
+>> Ouf, merci ! C'est le bon code ! Je fonce vers la porte suivante !
+
+[126/128] Il paraît qu'il y a un mot de passe dans cette image... Peux-tu m'aider ? Vite vite vite !!!
+
+b'iVBORw0KGgoAAAANSUhEUgAAAUoAAABkCAIAAABvmu6gAAABq0lEQVR4nO3TwWrFIBRAwdD//+d0URqKV/uyPsysQlCjhnNdv+77fh5+PC+XN8/zdtacOB+2K8xZy8SPW50r/7OZ0ynmruYX583MTyzT59G2R14GzO++2eTpo6d7265wmrUdtt3bXHmOXKZv35+2/fGiTqd7eYrtz/o7d9nM9h5OJ335L+aw003OHd73/XUBUfKGLHlDlrwhS96QJW/IkjdkyRuy5A1Z8oYseUOWvCFL3pAlb8iSN2TJG7LkDVnyhix5Q5a8IUvekCVvyJI3ZMkbsuQNWfKGLHlDlrwhS96QJW/IkjdkyRuy5A1Z8oYseUOWvCFL3pAlb8iSN2TJG7LkDVnyhix5Q5a8IUvekCVvyJI3ZMkbsuQNWfKGLHlDlrwhS96QJW/IkjdkyRuy5A1Z8oYseUOWvCFL3pAlb8iSN2TJG7LkDVnyhix5Q5a8IUvekCVvyJI3ZMkbsuQNWfKGLHlDlrwhS96QJW/IkjdkyRuy5A1Z8oYseUOWvCFL3pAlb8iSN2TJG7LkDVnyhix5Q5a8IUvekCVvyJI3ZMkbsuQNWfKGLHlD1jdnKuTwKehhEQAAAABJRU5ErkJggg==\n'
+b'ZCnb8Mjbylqt0yxR9N6QB0PNubWRf5'
+>> Ouf, merci ! C'est le bon code ! Je fonce vers la porte suivante !
+
+[127/128] Il paraît qu'il y a un mot de passe dans cette image... Peux-tu m'aider ? Vite vite vite !!!
+
+b'iVBORw0KGgoAAAANSUhEUgAAARMAAABkCAIAAAAqm0MiAAABe0lEQVR4nO3TSwrCMABAweD976wLUYJpQn3rmYVomzYfeWOM8fwYk/fP7+c85jtyd2W+vhtwmHedel3VfP3mGs5r3t3dreHn+26R62t3b1u3c/nUnW2ut9YB97dz3uZhF+eTPM91+f8ezmF3ILtDu5xunfEwxWMA/1MOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqBQjlQKAcK5UChHCiUA4VyoFAOFMqB4gV5V5o7kV0L8QAAAABJRU5ErkJggg==\n'
+b'ocfDwWf93P8OGfnUzP3ygeBWe'
+>> Ouf, merci ! C'est le bon code ! Je fonce vers la porte suivante !
+
+Oh merci merci merci ! Me voilà enfin libre ! Voilà un cadeau pour te remercier :
+
+b'404CTF{W0w_c0d3_128_4_pLUs_4uCuN_s3cr3t_p0uR_t01}\n'
+[*] Closed connection to challenge.404ctf.fr port 30566
+

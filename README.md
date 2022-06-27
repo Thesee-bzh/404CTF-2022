@@ -1,0 +1,28 @@
+# 404CTF-2022
+
+Some writeups for the 404CTF 2022 CTF competition at https://www.404ctf.fr
+
+- Forensics / [Floppy](/Forensics/floppy/README.md)
+- Forensics / [Ping Pong](/Forensics/ping_pong/README.md)
+- Forensics / [Un agent compromis 1](/Forensics/un_agent_compromis_1/README.md)
+- Forensics / [Un agent compromis 2](/Forensics/un_agent_compromis_2/README.md)
+- Forensics / [Hackllebarde ransomware](/Forensics/hackllebarde_ransomware_1/README.md)
+- Retro / [Mot de passe](/Retro/mot_de_passe/README.md)
+- Retro / [Renverse la tour 1](/Retro/renverse_la_tour_1/README.md)
+- Retro / [Mise à jour requise](/Retro/mise_a_jour_requise/README.md)
+- Retro / [Renverse la tour 2](/Retro/renverse_la_tour_2/README.md)
+- Retro / [Pas de mise à jour...](/Retro/pas_de_mise_a_jour/README.md)
+- Stego / [PNG: un logo obèse 1](/Stego/png_un_logo_obese_1/README.md)
+- Web / [Le braquage](/Web/le_braquage/README.md)
+- Crypto / [Un RSA incassable](/Crypto/un_rsa_incassable/README.md)
+- Crypto / [Un simple oracle 1](/Crypto/un_simple_oracle_1/README.md)
+- Crypto / [Weak signature](/Crypto/weak_signature/README.md)
+- Crypto / [Un simple oracle 2](/Crypto/un_simple_oracle_2/README.md)
+- Crypto / [La fonte des hashs](/Crypto/la_fonte_des_hashs/README.md)
+- Osint / [Equipement désuet](/Osint/equipement_desuet/README.md)
+- Osint / [A l'aube d'un échange](/Osint/a_l_aube_d_un_echange/README.md)
+- Coding / [Compression](/Coding/compression/README.md)
+- Coding / [Découpé](/Coding/decoupe/README.md)
+- Coding / [128code128](/Coding/128code128/README.md)
+- Misc / [Pierre-Papier-Hallebarde](/Misc/pierre_papier_hallebarde/README.md)
+- Web3 / [Pense-bête](/Web3/pense_bete/README.md)
